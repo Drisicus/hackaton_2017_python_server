@@ -1,0 +1,1000 @@
+ 1014  vim iptables.sh
+ 1015  exit
+ 1016  ~/.dropbox-dist/dropboxd
+ 1017  cd /dev/
+ 1018  ls
+ 1019  cd disk/
+ 1020  ls
+ 1021  cd by-id/
+ 1022  ls
+ 1023  cd ..
+ 1024  ls
+ 1025  exit
+ 1026  /sys/devices/
+ 1027  cd /sys/devices/
+ 1028  ls
+ 1029  cd software/
+ 1030  ls
+ 1031  cd subsystem
+ 1032  ls
+ 1033  cd drivers/
+ 1034  ls
+ 1035  cd--
+ 1036  exit
+ 1037  nsnake 
+ 1038  cd /etc/init.d/
+ 1039  vim bluetooth 
+ 1040  ls -l bluetooth 
+ 1041  vim bluetooth 
+ 1042  sudo vim bluetooth 
+ 1043  sudo apt-get install emacs
+ 1044  emacs -batch -l dunnet
+ 1045  emacs
+ 1046  emacs -batch -l dunnet
+ 1047  exit
+ 1048  nsnake 
+ 1049  cd /etc/init.d/
+ 1050  ls
+ 1051  vim bluetooth 
+ 1052  kill -l
+ 1053  exit
+ 1054  jobs
+ 1055  sleep 30 &
+ 1056  jobs
+ 1057  kill 9 1
+ 1058  kill -9 1
+ 1059  ls
+ 1060  jobs
+ 1061  fg
+ 1062  jobs
+ 1063  exit
+ 1064  killall -9 exercise3
+ 1065  killall -SIGUSR1 exercise3
+ 1066  exit
+ 1067  killall -9 exercise3
+ 1068  exit
+ 1069  make exercise1 
+ 1070  ./exercise1 
+ 1071  make exercise1 
+ 1072  ./exercise1 
+ 1073  make exercise1 
+ 1074  ./exercise1 
+ 1075  make exercise1 
+ 1076  ./exercise1 
+ 1077  make exercise2 
+ 1078  ./exercise2 
+ 1079  kill -9 1
+ 1080  ps aux
+ 1081  kill -9 4224
+ 1082  ls
+ 1083  jobs
+ 1084  kill -9 4224
+ 1085  kill -9 5880
+ 1086  make exercise2 
+ 1087  ./exercise2 
+ 1088  kill -9 5953
+ 1089  make exercise2 
+ 1090  ./exercise2 
+ 1091  kill -l
+ 1092  make exercise2 
+ 1093  ./exercise2 
+ 1094  killall exercise2
+ 1095  jobs
+ 1096  killall -9 exercise2
+ 1097  make exercise2 
+ 1098  ./exercise2 
+ 1099  killall -9 exercise2
+ 1100  make exercise3 
+ 1101  ./exercise3 
+ 1102  make exercise3
+ 1103  ./exercise3 
+ 1104  exit
+ 1105  vim exercise1.c 
+ 1106  exit
+ 1107  killall -SIGUSR1 exercise2
+ 1108  vim example2.c 
+ 1109  exit
+ 1110  vim server.c 
+ 1111  make exercise3
+ 1112  ./exercise3 
+ 1113  ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+ 1114  make exercise3_2 
+ 1115  ./exercise3_2 
+ 1116  make exercise3_2 
+ 1117  ./exercise3_2 
+ 1118  make exercise3_2 
+ 1119  ./exercise3_2 
+ 1120  make exercise3_2 
+ 1121  ./exercise3_2 
+ 1122  killall -ALRM exercise3
+ 1123  killall -HUP exercise3
+ 1124  killall -USR1 exercise3
+ 1125  killall -9 exercise3
+ 1126  man sigfillset 
+ 1127  man sigpending 
+ 1128  man sigdelset 
+ 1129  man alarm
+ 1130  man sigsuspend 
+ 1131  killall -USR1 exercise3
+ 1132  killall -USR1 exercise3_2
+ 1133  killall -HUP exercise3_2 
+ 1134  killall -ALRM exercise3_2
+ 1135  killall -HUP exercise3_2 
+ 1136  killall -USR1 exercise3_2
+ 1137  man sigaction 
+ 1138  man struc sigaction 
+ 1139  killall -9 exercise3_2
+ 1140  killall -USR1 exercise3_2
+ 1141  killall -HUP exercise3_2 
+ 1142  killall -ALRM exercise3_2
+ 1143  killall -9 exercise3_2
+ 1144  killall -ALRM exercise3_2
+ 1145  killall -HUP exercise3_2 
+ 1146  killall -USR1 exercise3_2
+ 1147  killall -9 exercise3_2
+ 1148  killall -USR1 exercise3_2
+ 1149  killall -9 exercise3_2
+ 1150  killall -USR1 exercise3_2
+ 1151  killall -9 exercise3_2
+ 1152  ls
+ 1153  vim exercise3.c 
+ 1154  exit
+ 1155  ninvaders 
+ 1156  whereis ninvaders
+ 1157  cd /usr/games/
+ 1158  ls
+ 1159  ls -l
+ 1160  start /usr/games/ninvaders
+ 1161  /usr/games/ninvaders
+ 1162  ~/.dropbox-dist/dropboxd
+ 1163  man setsockopt
+ 1164  exit
+ 1165  man bzero
+ 1166  exit
+ 1167  man sockaddr_in
+ 1168  man struct sockaddr_in
+ 1169  vim test.c 
+ 1170  make
+ 1171  vim Makefile 
+ 1172  ls
+ 1173  make
+ 1174  ls -l
+ 1175  vim Makefile 
+ 1176  make
+ 1177  vim Makefile 
+ 1178  make
+ 1179  clear
+ 1180  vim server.c
+ 1181  exit
+ 1182  ./client localhost
+ 1183  exit
+ 1184  make
+ 1185  clear
+ 1186  make
+ 1187  ./client 
+ 1188  ./server 
+ 1189  exit
+ 1190  man memcpy
+ 1191  vim CAP_4_Videos.txt
+ 1192  exit
+ 1193  cd Dropbox/DistributedSystems/
+ 1194  ls
+ 1195  cd Problems/
+ 1196  ls
+ 1197  cd Sockets/
+ 1198  ls
+ 1199  cd socket_material/
+ 1200  ls
+ 1201  cd socket_material/
+ 1202  lls
+ 1203  ls
+ 1204  clear
+ 1205  ls
+ 1206  vim client.c 
+ 1207  exit
+ 1208  /bin/bash vim test
+ 1209  vim .bashrc 
+ 1210  vim .vimrc 
+ 1211  cd /etc/init.d/
+ 1212  vim dropbox.sh
+ 1213  sudo vim dropbox.sh
+ 1214  exit
+ 1215  ~/.dropbox-dist/dropboxd
+ 1216  vim PRUEBA.sh
+ 1217  exit
+ 1218  ssh cosec@172.16.38.128
+ 1219  ssh fakebookAdmin@172.16.38.128
+ 1220  ssh 172.16.38.128
+ 1221  ssh cosec@172.16.38.128
+ 1222  nmap 172.16.38.128
+ 1223  netstat -punta
+ 1224  nmap 172.16.38.128
+ 1225  cd /etc/init.d/
+ 1226  ls
+ 1227  vim dropbox-daemon.sh 
+ 1228  sudo vim dropbox-daemon.sh 
+ 1229  rm dropbox.sh 
+ 1230  sudo rm dropbox.sh 
+ 1231  clear
+ 1232  vim /home/drisicus/.dropbox-dist/
+ 1233  /home/drisicus/.dropbox-dist/dropboxd 
+ 1234  ls /home/drisicus/.dropbox-dist/dropboxd 
+ 1235  ls /home/drisicus/.dropbox-dist/
+ 1236  exit
+ 1237  vim /etc/rc.local 
+ 1238  sudo vim /etc/rc.local 
+ 1239  exit
+ 1240  who
+ 1241  exit
+ 1242  lynx google.es
+ 1243  exit
+ 1244  ps aux
+ 1245  ps aux | grep drop
+ 1246  ~/.dropbox-dist/dropboxd
+ 1247  exit
+ 1248  man struct file
+ 1249  exit
+ 1250  ~/.dropbox-dist/dropboxd
+ 1251  exit
+ 1252  man accept
+ 1253  ./client 
+ 1254  ./client localhost
+ 1255  ./server 
+ 1256  exit
+ 1257  vim client.java 
+ 1258  eit
+ 1259  exit
+ 1260  cd Escritorio/
+ 1261  vim notesSecurity.txt
+ 1262  exit
+ 1263  sudo service network restart
+ 1264  sudo network restart
+ 1265  ~/.dropbox-dist/dropboxd
+ 1266  exit
+ 1267  cd Descargas/
+ 1268  cd ..
+ 1269  cd Escritorio/
+ 1270  cp Dropbox.txt Dropbox.sh
+ 1271  vim Dropbox.sh 
+ 1272  chmod +x Dropbox.sh 
+ 1273  ./Dropbox.sh 
+ 1274  exit
+ 1275  ping google.es
+ 1276  ifconfig
+ 1277  exit
+ 1278  top
+ 1279  ps aux | grep ntp
+ 1280  exit
+ 1281  cd Escritorio/
+ 1282  ./Dropbox.sh 
+ 1283  nsnake 
+ 1284  whereis nsnake
+ 1285  cd /usr/games/
+ 1286  ls
+ 1287  cd /usr/share/man/man6/
+ 1288  ls
+ 1289  rpcinf
+ 1290  sudo apt-get install rpcinfo
+ 1291  rpcinfo
+ 1292  sudo apt-get install rpcbind
+ 1293  rpcinfo -p guernika.lab.inf.uc3m.es
+ 1294  rpcinfo -p google.es
+ 1295  scp DSO_1.zip  a0330575@guernika.lab.inf.uc3m.es:
+ 1296  scp DSO_1.zip  a0330575@guernika.lab.inf.uc3m.es:/DSO_scheduler
+ 1297  scp DSO_1.zip  a0330575@guernika.lab.inf.uc3m.es
+ 1298  scp DSO_1.zip  a0330575@guernika.lab.inf.uc3m.es:~
+ 1299  ls
+ 1300  scp RR.c   a0330575@guernika.lab.inf.uc3m.es:
+ 1301  scp -v  RR.c a0330575@guernika.lab.inf.uc3m.es:
+ 1302  ssh a0330575@guernika.lab.inf.uc3m.es
+ 1303  exit
+ 1304  ssh a0330575@guernika.lab.inf.uc3m.es
+ 1305  scp RR.c   a0330575@guernika.lab.inf.uc3m.es:
+ 1306  ls
+ 1307  touch test.txt
+ 1308  scp test.txt   a0330575@guernika.lab.inf.uc3m.es:
+ 1309  cd Dropbox/
+ 1310  cd OSDesign/Assignment1-Scheduler/p1_scheduler/DSO_1/
+ 1311  ls
+ 1312  cd ..
+ 1313  ls
+ 1314  scp DSO_1.zip  a0330575@guernika.lab.inf.uc3m.es:
+ 1315  ssh a0330575@guernika.lab.inf.uc3m.es
+ 1316  exit
+ 1317  ./server 5050
+ 1318  ./server -p 5050
+ 1319  vim server.c 
+ 1320  exit
+ 1321  java -cp . client -s 192.168.132.131 -p 5050
+ 1322  ifconfig
+ 1323  java -cp . client -s 172.16.38.1 -p 5050
+ 1324  vim server.c 
+ 1325  make
+ 1326  java -cp . client -s 172.16.38.1 -p 5050
+ 1327  make
+ 1328  java -cp . client -s 172.16.38.1 -p 5050
+ 1329  make
+ 1330  java -cp . client -s 172.16.38.1 -p 5050
+ 1331  make
+ 1332  java -cp . client -s 172.16.38.1 -p 5050
+ 1333  exit
+ 1334  ssh a0330575@guernika.lab.inf.uc3m.es
+ 1335  ./server -p 5050
+ 1336  make
+ 1337  ./server -p 5050
+ 1338  make
+ 1339  ./server -p 5050
+ 1340  make
+ 1341  ./server -p 5050
+ 1342  make
+ 1343  ./server -p 5050
+ 1344  make
+ 1345  ./server -p 5050
+ 1346  make
+ 1347  ./server -p 5050
+ 1348  make
+ 1349  ./server -p 5050
+ 1350  make
+ 1351  ./server -p 5050
+ 1352  make
+ 1353  ./server -p 5050
+ 1354  make
+ 1355  ./server -p 5050
+ 1356  make
+ 1357  ./server -p 5050
+ 1358  valgrind ./server -p 5050
+ 1359  exit
+ 1360  grep -R -e "queue_new"
+ 1361  make
+ 1362  exit
+ 1363  java -cp . client -s 172.16.38.1 -p 5050
+ 1364  exit
+ 1365  subl client.java 
+ 1366  subl server.c 
+ 1367  ./server -p 5050
+ 1368  make
+ 1369  ./server -p 5050
+ 1370  make
+ 1371  ./server 
+ 1372  ./server -p 5050
+ 1373  exit
+ 1374  java -cp . client -s 172.16.38.1
+ 1375  java -cp . client -s 172.16.38.1 -p 5050
+ 1376  exit
+ 1377  cd Dropbox/
+ 1378  cd DistributedSystems/
+ 1379  cd Assignments/1-Sockets/socketWhats
+ 1380  ls
+ 1381  cd ..
+ 1382  cp socketWhats socketWhatsMATE
+ 1383  cp -r socketWhats socketWhatsMATE
+ 1384  cd socketWhatsMATE/
+ 1385  ls
+ 1386  ./server -p 5050
+ 1387  exit
+ 1388  if config
+ 1389  ifconfig
+ 1390  ls
+ 1391  exit
+ 1392  git status
+ 1393  git add client.java 
+ 1394  git add server
+ 1395  git add server.c 
+ 1396  git add server.h 
+ 1397  git add server.o 
+ 1398  git commit -m "Updated server and client"
+ 1399  sudo git config --global user.email "aaasssccc@gmail.com"
+ 1400  sudo git config --global user.name "Andres Sanchez"
+ 1401  git commit -m "Updated server and client"
+ 1402  git push
+ 1403  exit
+ 1404  make
+ 1405  make clean
+ 1406  make clear
+ 1407  make clean
+ 1408  make
+ 1409  make clean
+ 1410  make
+ 1411  exit
+ 1412  mkdir MERGE
+ 1413  cd MERGE/
+ 1414  git clone https://github.com/Alamo1990/socketWhats.git
+ 1415  exit
+ 1416  cp socketWhats socketWhatsMATE
+ 1417  cp -r socketWhats socketWhatsMATE
+ 1418  cd socketWhatsMATE/
+ 1419  ls
+ 1420  clear
+ 1421  ls
+ 1422  git pull
+ 1423  subl client.java 
+ 1424  subl server.c 
+ 1425  make
+ 1426  ./server -p 5050
+ 1427  make
+ 1428  ./server -p 5050
+ 1429  valgrind ./server -p 5050
+ 1430  ./server -p 5050
+ 1431  make
+ 1432  ./server -p 5050
+ 1433  make
+ 1434  MAKE
+ 1435  make
+ 1436  ./server -p 5050
+ 1437  make
+ 1438  ./server -p 5050
+ 1439  exit
+ 1440  java -cp . client -s 172.16.38.1 -p 5050
+ 1441  fg
+ 1442  make
+ 1443  vim Makefile 
+ 1444  make
+ 1445  java -cp . client -s 172.16.38.1 -p 5050
+ 1446  make
+ 1447  java -cp . client -s 172.16.38.1 -p 5050
+ 1448  make
+ 1449  java -cp . client -s 172.16.38.1 -p 5050
+ 1450  exit
+ 1451  sudo wireshark 
+ 1452  mysql root
+ 1453  exit
+ 1454  ifconfig
+ 1455  exit
+ 1456  hdparm 
+ 1457  ls /dev/
+ 1458  java -v
+ 1459  java --help
+ 1460  java -version
+ 1461  top
+ 1462  exit
+ 1463  ./server -p 5050
+ 1464  make
+ 1465  make clean
+ 1466  make clear
+ 1467  make clean
+ 1468  make
+ 1469  ./server -p 5050
+ 1470  make
+ 1471  ./server -p 5050
+ 1472  exit
+ 1473  java -cp . client -s 172.16.38.1 -p 5050
+ 1474  fg
+ 1475  make
+ 1476  java -cp . client -s 172.16.38.1 -p 5050
+ 1477  exit
+ 1478  cd Dropbox/DistributedSystems/Assignments/1-Sockets/socketWhats
+ 1479  l
+ 1480  ls
+ 1481  clear
+ 1482  vim server.c 
+ 1483  subl server.c 
+ 1484  subl queue.c 
+ 1485  subl client.java 
+ 1486  make
+ 1487  ºexit
+ 1488  exit
+ 1489  vim /etc/fstab 
+ 1490  exit
+ 1491  ninvaders 
+ 1492  exit
+ 1493  killall gnome-panel
+ 1494  killall mate-panel 
+ 1495  exit
+ 1496  subl client
+ 1497  subl client.java 
+ 1498  subl server.c 
+ 1499  make
+ 1500  clear
+ 1501  subl client.java 
+ 1502  make
+ 1503  java -cp . client -s 172.16.38.1 -p 5050
+ 1504  exit
+ 1505  ifconfig
+ 1506  ./server -p 5050
+ 1507  exut
+ 1508  exit
+ 1509  cd Descargas/
+ 1510  cd ..
+ 1511  cd Escritorio/
+ 1512  vim notasAssignment2.txt
+ 1513  cd Escritorio/
+ 1514  vim notasAssignment2.txt 
+ 1515  exit
+ 1516  cd Dropbox/DistributedSystems/Assignments/
+ 1517  nautilus .
+ 1518  caja .
+ 1519  cd 1-Sockets/socketWhats
+ 1520  git status
+ 1521  git pull
+ 1522  exit
+ 1523  git status
+ 1524  mkdir test
+ 1525  cd test/
+ 1526  rpcgen -a -N -M messageServer.x
+ 1527  cd ..
+ 1528  rm -r test/
+ 1529  ls
+ 1530  ls -a
+ 1531  cp ../../1-Sockets/socketWhats/.gitignore .
+ 1532  ls
+ 1533  clear
+ 1534  ls
+ 1535  subl serverMessage.x
+ 1536  ls
+ 1537  vim .gitignore 
+ 1538  subl server.h
+ 1539  subl serverMessage.h
+ 1540  subl serverMessage.h 
+ 1541  rpcgen -a -N -M serverMessage.x 
+ 1542  ls
+ 1543  vim serverMessage.h 
+ 1544  exit
+ 1545  cd Escritorio/
+ 1546  subl InformationSystemsAcquisitionAndMaintenance
+ 1547  nsnake 
+ 1548  exit
+ 1549  vim md5Calc.java
+ 1550  mv md5Calc.java md5Service.java 
+ 1551  vim md5Publisher.java 
+ 1552  mv md5Publisher.java Md5Publisher.java 
+ 1553  mv md5Service.java Md5Service.java 
+ 1554  vim Md5Service.java 
+ 1555  javac Md5Service.java 
+ 1556  javac Md5Publisher.java 
+ 1557  javac Md5Service.java 
+ 1558  vim md5Publisher.java 
+ 1559  vim Md5Publisher.java 
+ 1560  javac Md5Service.java 
+ 1561  javac Md5Publisher.java 
+ 1562  vim Md5Publisher.java 
+ 1563  cd ..
+ 1564  ls
+ 1565  javac MD5/Md5Service.java 
+ 1566  javac MD5/Md5Publisher.java 
+ 1567  ls
+ 1568  java MD5.Md5Publisher 
+ 1569  vim MD5/Md5Publisher.java 
+ 1570  javac MD5/Md5Publisher.java 
+ 1571  java MD5.Md5Publisher 
+ 1572  vim MD5/Md5Publisher.java 
+ 1573  javac MD5/Md5Publisher.java 
+ 1574  java MD5.Md5Publisher 
+ 1575  vim MD5/Md5Publisher.java 
+ 1576  exit
+ 1577  javac MD5/Md5Service.java 
+ 1578  javac MD5/Md5Publisher.java 
+ 1579  java MD5.Md5Publisher 
+ 1580  wsgen - -cp . -wsdl MD5/Md5Service.
+ 1581  wsgen - -cp . -wsdl MD5.Md5Service
+ 1582  ls
+ 1583  wsgen -cp . -wsdl MD5.Md5Service
+ 1584  ls
+ 1585  wsimport -p client -keep Md5ServiceService.wsdl 
+ 1586  vim client.java 
+ 1587  exit
+ 1588  ls
+ 1589  make
+ 1590  ls
+ 1591  javac md5Test.java 
+ 1592  exit
+ 1593  ls
+ 1594  cd client/
+ 1595  ls
+ 1596  vim Md5Service.java 
+ 1597  cd ..
+ 1598  cd  MD5/
+ 1599  vim Md5Service.java 
+ 1600  cd ..
+ 1601  ls
+ 1602  javac md5Test.java 
+ 1603  java md5Test 
+ 1604  javac md5Test.java 
+ 1605  java md5Test 
+ 1606  javac md5Test.java 
+ 1607  java md5Test 
+ 1608  java -version
+ 1609  exit
+ 1610  cd MD5/
+ 1611  ls
+ 1612  java Md5Service 
+ 1613  java Md5Publisher 
+ 1614  cd ..
+ 1615  java MD5.Md5Publisher 
+ 1616  exit
+ 1617  rpcinfo 
+ 1618  exit
+ 1619  cd Dropbox/DistributedSystems/Assignments/2-RPC/
+ 1620  make
+ 1621  ls
+ 1622  cd rpc/
+ 1623  make
+ 1624  nautilus .
+ 1625  caja .
+ 1626  make
+ 1627  cd ..
+ 1628  c d..
+ 1629  cd ..
+ 1630  1-Sockets/
+ 1631  cd 1-Sockets/
+ 1632  cd socketWhats
+ 1633  make
+ 1634  make clean
+ 1635  make
+ 1636  cd ..
+ 1637  cd 2-RPC/
+ 1638  ls
+ 1639  cd rpc/
+ 1640  ls
+ 1641  rm client.class 
+ 1642  make
+ 1643  java -cp . client -s 127.0.0.1 -p 5050
+ 1644  cd distribuidos2/
+ 1645  java -cp . client -s 127.0.0.1 -p 5050
+ 1646  exit
+ 1647  make clean
+ 1648  make
+ 1649  ifconfig
+ 1650  ./server -p 5050
+ 1651  cd distribuidos2/
+ 1652  ./server -p 5050
+ 1653  exit
+ 1654  java clientMd5
+ 1655  java clientMd5.Md5Service
+ 1656  ls
+ 1657  java clientMd5.MD5
+ 1658  java clientMd5.Md5Service
+ 1659  java MD5.Md5Publisher 
+ 1660  git clone https://github.com/Drisicus/distribuidos2.git
+ 1661  cd distribuidos2/
+ 1662  git add *
+ 1663  git status
+ 1664  git reset
+ 1665  git status
+ 1666  vim .gitignore 
+ 1667  git add *
+ 1668  git status
+ 1669  git commit -a -m "MD5"
+ 1670  git push
+ 1671  java MD5.Md5Publisher 
+ 1672  java MD5.Md5Service 
+ 1673  exit
+ 1674  cd Dropbox/DistributedSystems/RPC_TEST/
+ 1675  ls
+ 1676  cd Rp
+ 1677  cd RPC_struct/
+ 1678  ls
+ 1679  make -f Makefile.store 
+ 1680  ./store_client localhost
+ 1681  make -f Makefile.store 
+ 1682  ./store_client localhostº
+ 1683  ./store_client localhost
+ 1684  vim store_cl.c
+ 1685  clear
+ 1686  vim store_client.c 
+ 1687  make -f Makefile.store 
+ 1688  ./store_client localhost
+ 1689  vim store_client.c 
+ 1690  make -f Makefile.store 
+ 1691  ./store_client localhost
+ 1692  exit
+ 1693  ./se
+ 1694  ./store_server 
+ 1695  rpcinfo 
+ 1696  ./store_server 
+ 1697  vim store_server.c 
+ 1698  ./store_server 
+ 1699  exit
+ 1700  ifconfig
+ 1701  ./store_client 192.168.132.131
+ 1702  ./store_client 192.168.1.113
+ 1703  exit
+ 1704  cd Dropbox/DistributedSystems/RPC_TEST/RPC_struct/
+ 1705  make
+ 1706  make -f Makefile.store 
+ 1707  ./store_server 
+ 1708  exit
+ 1709  ssh a0330575@guernika.lab.inf.uc3m.es
+ 1710  exit
+ 1711  ninvaders 
+ 1712  vim EXAM_TIPS.txt
+ 1713  exit
+ 1714  curl ipinfo.ip/ip
+ 1715  sudo apt-get install curl
+ 1716  curl ipinfo.ip/ip
+ 1717  curl ipinfo.io/ip
+ 1718  ls
+ 1719  vim computerroom 
+ 1720  ls
+ 1721  cd Dropbox/
+ 1722  ls
+ 1723  cd DistributedSystems/Assignments/3-RPC-Webservice/RPC-JavaWebServer/WebService/
+ 1724  ls
+ 1725  java measures.MeasurePublisher 
+ 1726  clear
+ 1727  java measures.MeasurePublisher 
+ 1728  Ã§
+ 1729  exit
+ 1730  ssh guernika.lab.inf.uc3m.es
+ 1731  ssh a0330575@guernika.lab.inf.uc3m.es
+ 1732  exit
+ 1733  ifconfig 
+ 1734  ls
+ 1735  vim MeasureServiceService.wsdl 
+ 1736  ls
+ 1737  clear
+ 1738  ls
+ 1739  cd ..
+ 1740  ls
+ 1741  cd WebService/
+ 1742  ls
+ 1743  vim MeasureServiceService_schema1.xsd 
+ 1744  ls
+ 1745  cd ..
+ 1746  ls
+ 1747  cd ..
+ 1748  ls
+ 1749  clear
+ 1750  ls
+ 1751  cd ..
+ 1752  ls
+ 1753  cd 2-RPC/
+ 1754  ls
+ 1755  cd distribuidos2/
+ 1756  ls
+ 1757  vim client/client.java 
+ 1758  cd ..
+ 1759  ls
+ 1760  cd 3-RPC-Webservice/
+ 1761  ls
+ 1762  cd RPC-JavaWebServer/
+ 1763  ls
+ 1764  ping http://163.117.142.238:9668/es
+ 1765  ping http://163.117.142.238:9668/rs
+ 1766  ping http://163.117.142.238:9668/
+ 1767  clear
+ 1768  ping http://163.117.142.238:9668/
+ 1769  ifconfig 
+ 1770  git status
+ 1771  git pull
+ 1772  ls
+ 1773  vim MeasuresJava.txt 
+ 1774  exot
+ 1775  exit
+ 1776  cd RPC-JavaWebServer/
+ 1777  ls
+ 1778  cd WebService/
+ 1779  ls
+ 1780  java measures.MeasurePublisher 
+ 1781  exit
+ 1782  vim Transferenciasv3.csv 
+ 1783  vim Programas.txt
+ 1784  exit
+ 1785  nsnake 
+ 1786  shutdown -t 0
+ 1787  shutdown -t0
+ 1788  shutdown -t 0
+ 1789  cd Escritorio/
+ 1790  ls
+ 1791  mkdir TEMP
+ 1792  cd TEMP/
+ 1793  git clone git@cormoran.arcos.inf.uc3m.es:rephrase/paper-ucer-pis-2017.git
+ 1794  git clone andrsanc@cormoran.arcos.inf.uc3m.es:rephrase/paper-ucer-pis-2017.git
+ 1795  git clone 100330575@cormoran.arcos.inf.uc3m.es:rephrase/paper-ucer-pis-2017.git
+ 1796  find . -name "cmake"
+ 1797  cd /
+ 1798  sudo find . -name "cmake"
+ 1799  sudo apt-get install vagrant
+ 1800  sudo apt-get install virtualbox
+ 1801  vagrant plugin install vagrant-vbguest
+ 1802  vagrant 
+ 1803  vagrant plugin install vagrant-vbguest
+ 1804  cd Documentos/
+ 1805  ls
+ 1806  mkdir JavaWebServices
+ 1807  cd JavaWebServices/
+ 1808  ls
+ 1809  mkdir dpalomar
+ 1810  mkdir dpalomar/uc3mtiw
+ 1811  vagrant init dpalomar/uc3mTiw
+ 1812  ls
+ 1813  vim Vagrantfile 
+ 1814  vagrant up
+ 1815  vim Vagrantfile 
+ 1816  mv dpalomar/uc3mtiw/ dpalomar/uc3mTiw/
+ 1817  vagrant up
+ 1818  ls
+ 1819  rm -r *
+ 1820  ls
+ 1821  clear
+ 1822  exit
+ 1823  clear
+ 1824  xs ..
+ 1825  cd ..
+ 1826  ls
+ 1827  cd ..
+ 1828  ls
+ 1829  apt-get update
+ 1830  sudo apt-get update
+ 1831  sudo apt-get install --only-upgrade python
+ 1832  sudo apt-get install --only-upg
+ 1833  sudo apt-get install --only-upgrade python3.6
+ 1834  sudo apt-get install python3.6
+ 1835  sudo apt-get install python3
+ 1836  sudo apt-get upgrade
+ 1837  exit
+ 1838  bluetooth
+ 1839  bluetooth on
+ 1840  bluetooth start
+ 1841  service bluetooth start
+ 1842  service bluetooth restart
+ 1843  ifconfig
+ 1844  ls
+ 1845  cd venv/
+ 1846  ls
+ 1847  cd ..
+ 1848  subl test.py
+ 1849  python test.py
+ 1850  ls
+ 1851  cd ..
+ 1852  lls
+ 1853  ls
+ 1854  python test.py
+ 1855  clear
+ 1856  python test.py
+ 1857  ls
+ 1858  cd Server/
+ 1859  ls
+ 1860  cd ..
+ 1861  ls
+ 1862  git clone https://github.com/DiffyA/InditexHackathon.git
+ 1863  ls
+ 1864  cd InditexHackathon/
+ 1865  ls
+ 1866  firefox index.html 
+ 1867  ls
+ 1868  google-chrome index.html 
+ 1869  subl index.html 
+ 1870  subl js/logic.js 
+ 1871  ls
+ 1872  cd ..
+ 1873  ls
+ 1874  cd Server/
+ 1875  ls
+ 1876  cd venv/
+ 1877  ls
+ 1878  cd local/
+ 1879  ls
+ 1880  exit
+ 1881  ls
+ 1882  cd Escritorio/
+ 1883  ls
+ 1884  mkdir HackatonInditex2017
+ 1885  cd HackatonInditex2017/
+ 1886  ls
+ 1887  mkdir colasBackend
+ 1888  cd colasBackend/
+ 1889  subl colas.py
+ 1890  ls
+ 1891  python colas.py 
+ 1892  ls
+ 1893  python colas.py 
+ 1894  ls
+ 1895  python colas.py 
+ 1896  ls
+ 1897  co Server/ ServerBK/
+ 1898  cp Server/ ServerBK/
+ 1899  cp -r Server/ ServerBK/
+ 1900  ls -l
+ 1901  ls
+ 1902  ls -a
+ 1903  ls 
+ 1904  find
+ 1905  clear
+ 1906  ls -l
+ 1907  ls -la
+ 1908  ls -lah
+ 1909  cd Server
+ 1910  ls
+ 1911  ls -lah
+ 1912  exit
+ 1913  ls
+ 1914  cd Escritorio/
+ 1915  ls
+ 1916  cd HackatonInditex2017/
+ 1917  ls
+ 1918  mkdir webSocketFlask
+ 1919  cd webSocketFlask/
+ 1920  ls
+ 1921  pyenv virtualenv 3.6.0 websockets
+ 1922  curl -L https://raw.githubusercontent.com/yyuu/pyenv-installer/master/bin/pyenv-installer | bash
+ 1923  vim ~/.bashrc 
+ 1924  pyenv install 3.5.1
+ 1925  rm /tmp/python-build.20171005191302.5180
+ 1926  rm /tmp/python-build.20171005191302.5180 -r
+ 1927  clear
+ 1928  service bluetooth stop
+ 1929  exit
+ 1930  python test.py 
+ 1931  python3 test.py 
+ 1932  python3.5 test.py 
+ 1933  python3 test.py 
+ 1934  python test.py 
+ 1935  python test.py º
+ 1936  clear
+ 1937  rm test.py 
+ 1938  ls
+ 1939  mkdir Server
+ 1940  cd Server/
+ 1941  Ã§
+ 1942  virtualenv venv
+ 1943  . venv/bin/activate
+ 1944  pip install Flask
+ 1945  FLASK_APP=test.py flask run
+ 1946  Ã§
+ 1947  FLASK_APP=test.py flask run
+ 1948  Ã§
+ 1949  FLASK_APP=test.py flask run
+ 1950  FLASK_APP=test.py flask run --host=0.0.0.0
+ 1951  clear
+ 1952  FLASK_APP=test.py flask run --host=0.0.0.0
+ 1953  clear
+ 1954  FLASK_APP=test.py flask run --host=0.0.0.0
+ 1955  clear
+ 1956  FLASK_APP=test.py flask run --host=0.0.0.0
+ 1957  clear
+ 1958  FLASK_APP=test.py flask run --host=0.0.0.0
+ 1959  clear
+ 1960  pip install flask-socketio
+ 1961  clear
+ 1962  FLASK_APP=test.py flask run --host=0.0.0.0
+ 1963  clear
+ 1964  FLASK_APP=test.py flask run --host=0.0.0.0
+ 1965  q
+ 1966  exit
+ 1967  cd ..
+ 1968  ls
+ 1969  cd ..
+ 1970  ls
+ 1971  rm webSocketFlask/
+ 1972  rm webSocketFlask/ -r
+ 1973  mkdir webSocket
+ 1974  cd webSocket/
+ 1975  ls
+ 1976  vim webSock.py
+ 1977  ls
+ 1978  mv webSock.py server.py
+ 1979  lls
+ 1980  ls
+ 1981  chmod +x server.py 
+ 1982  ls
+ 1983  ./server.py & python -m SimpleHTTPServer 8888
+ 1984  fg
+ 1985  clear
+ 1986  ./server.py & python -m SimpleHTTPServer 8888
+ 1987  fg
+ 1988  clear
+ 1989  subl client.html 
+ 1990  sub server.py 
+ 1991  subl server.py 
+ 1992  ls
+ 1993  sudo apt-get install python-pip python-dev nginx
+ 1994  ipconfig
+ 1995  ifconfig
+ 1996  exit
+ 1997  vim client.html
+ 1998  google-chrome client.html 
+ 1999  ls
+ 2000  caja .
+ 2001  ls
+ 2002  cd Documentos/
+ 2003  ls
+ 2004  cd ..
+ 2005  cd Escritorio/
+ 2006  ls
+ 2007  cd HackatonInditex2017/
+ 2008  ls
+ 2009  cd colasBackend/
+ 2010  ls
+ 2011  cd Server
+ 2012  ls
+ 2013  history > history.txt

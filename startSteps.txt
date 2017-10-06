@@ -1,0 +1,8 @@
+
+Desde la carpeta Server
+
+virtualenv venv
+
+. venv/bin/activate
+
+FLASK_APP=test.py flask run --host=0.0.0.0
